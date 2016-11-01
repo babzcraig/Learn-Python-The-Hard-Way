@@ -1,0 +1,7 @@
+This is a bunch of notes and insights I'm gathering as I read this book.
+
+- Exercise 2:
+I noticed a typo here: #Anything after the # is ignored by python. I should have had a space between the hash and the 'A'
+
+- Exercise 0:
+Where he talks about weaning off videos and being able to gain information by reading. I am assuming both code, books and documentation. This is where I want to be with my skill level. I have already placed an embargo on video tutorials and will focus solely on books and documentation.
