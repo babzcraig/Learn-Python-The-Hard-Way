@@ -1,11 +1,28 @@
 This is a bunch of notes and insights I'm gathering as I read this book.
 
 - Exercise 2:
-I noticed a typo here: #Anything after the # is ignored by python. I should have had a space between the hash and the 'A'
+I noticed a typo here: #Anything after the # is ignored by python. I should
+have had a space between the hash and the 'A'
 
 - Exercise 0:
-Where he talks about weaning off videos and being able to gain information by reading. I am assuming both code, books and documentation. This is where I want to be with my skill level. I have already placed an embargo on video tutorials and will focus solely on books and documentation.
+Where he talks about weaning off videos and being able to gain information by
+reading. I am assuming both code, books and documentation. This is where I want
+to be with my skill level. I have already placed an embargo on video tutorials
+and will focus solely on books and documentation.
 
-I'm curious to learn about scope in Python. Variables are declared on the fly without keywords so far. Curious.
+I'm curious to learn about scope in Python. Variables are declared on the fly
+without keywords so far. Curious.
 
 The triple quote string escapes newlines and quotes inside of it. Cool to know.
+
+#### I have to be sure to do this exercise tonight after my beers. Lol. -
+  {{{Use pydoc to also read about open, file, os, and sys. It's alright if you
+  do not understand those; just read through and take notes about interesting
+  things.}}}
+
+  {{{Combine raw_input with argv to make a script that gets more input from a
+  user. Don't over think it. Just use argv to get something, and raw_input to
+  get something else from the user.}}}
+
+  ##Notice how I'm keeping lines less than 80 characters like a good Python cha
+  p... ;-)
